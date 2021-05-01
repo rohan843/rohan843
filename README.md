@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @rohan843
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning app dev using flutter
-<!---
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
