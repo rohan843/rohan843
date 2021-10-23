@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohan843
+- 👋 Hi, I’m Rohan
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning app dev using flutter
