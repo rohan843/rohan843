@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Web Development and Flutter App Development
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning react
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/rohan-sharma-323593202/" target="_blank">LinkedIn</a> or drop me a <a href="mailto:rohan843.dev@gmail.com?subject=Hey there, Rohan! 👋">mail</a>!
 <!---
 - 💞️ I’m looking to collaborate on ...
